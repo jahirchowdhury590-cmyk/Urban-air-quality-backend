@@ -1,0 +1,12 @@
+{
+  "name": "urban-air-quality-backend",
+  "version": "1.0.0",
+  "description": "Backend service for Urban Air Quality Assistant (winter smog, indoor air hacks, low-emission routines)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
